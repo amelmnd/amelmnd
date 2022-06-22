@@ -33,8 +33,7 @@ Hi 👋, I'm Amel</h1>
 
 ### Testing
 
-<img width="40px" style="margin-right: 10px" title="jest" alt="logo jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/>
-<img width="40px" style="margin-right: 10px" title="testing-library" alt="logo testing-library" src="https://testing-library.com/img/octopus-128x128.png"/>
+<img width="40px" style="margin-right: 10px" title="jest" alt="logo jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/> <img width="40px" style="margin-right: 10px" title="testing-library" alt="logo testing-library" src="https://testing-library.com/img/octopus-128x128.png"/>
 
 <!--
 <img width="40px" style="margin-right: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original-wordmark.svg"/>&emsp;
@@ -48,3 +47,5 @@ Hi 👋, I'm Amel</h1>
 <img width="40px" style="margin-right: 10px" title="docker" alt="logo docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>&emsp;
 <img width="40px" style="margin-right: 10px" title="npm" alt="logo npm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>&emsp;
 <img width="40px" style="margin-right: 10px" title="composer" alt="logo composer" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg"/>&emsp; ...
+
+![](./profile-3d-contrib/profile-green-animate.svg)
