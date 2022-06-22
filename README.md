@@ -48,5 +48,3 @@ Hi 👋, I'm Amel</h1>
 <img width="40px" style="margin-right: 10px" title="docker" alt="logo docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>&emsp;
 <img width="40px" style="margin-right: 10px" title="npm" alt="logo npm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>&emsp;
 <img width="40px" style="margin-right: 10px" title="composer" alt="logo composer" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg"/>&emsp; ...
-
-![](./profile-3d-contrib/profile-green-animate.svg)
