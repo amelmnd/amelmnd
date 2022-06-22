@@ -3,7 +3,7 @@ Hi 👋, I'm Amel</h1>
 
 🌱 Currently I am working on projects to assimilate all the concepts learned.
 
-👩🏻‍🏫 I’m currently working on my personal website 😄
+👩🏻‍🏫 I’m currently working on my personal website and other project 😄
 
 ## My languages and frameworks
 
@@ -18,7 +18,7 @@ Hi 👋, I'm Amel</h1>
 <img width="40px" style="margin-right: 10px" title="jQuery" alt="logo jQuery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg"/>&emsp;
 <img width="40px" style="margin-right: 10px" title="react" alt="logo react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>&emsp;
 <img width="60px" style="margin-right: 10px" title="gatsby" alt="logo gatsby" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain-wordmark.svg"/>&emsp;
-<img width="60px" style="margin-right: 10px" title="next js" alt="logo next js" src="https://believemy.com/uploads/ee57727072f707a5ded8f633df86def8_83ad366df58d43e1147bb711e8c8768c.png"/>&emsp;
+<img width="50px" style="margin-right: 10px" title="next js" alt="logo next js" src="https://gitlab.com/uploads/-/system/project/avatar/35899002/nextjs-boilerplate-logo.png"/>&emsp;
 
 ### Backend
 
@@ -27,9 +27,9 @@ Hi 👋, I'm Amel</h1>
 <img width="40px" style="margin-right: 10px"  title="express" alt="logo express" src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png"/>&emsp;
 <img width="40px"  title="MongoDB" alt="logo MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>&emsp;
 
-### Mobile
+<!-- ### Mobile
 
-<img width="40px" height="40px" style="margin-right: 10px"  title="react native" alt="logo react native" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg"/>&emsp;
+<img width="40px" height="40px" style="margin-right: 10px"  title="react native" alt="logo react native" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg"/>&emsp; -->
 
 ### Testing
 
@@ -47,6 +47,4 @@ Hi 👋, I'm Amel</h1>
 <img width="40px" style="margin-right: 10px" title="git" alt="logo git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"/>&emsp;
 <img width="40px" style="margin-right: 10px" title="docker" alt="logo docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>&emsp;
 <img width="40px" style="margin-right: 10px" title="npm" alt="logo npm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>&emsp;
-<img width="40px" style="margin-right: 10px" title="composer" alt="logo composer" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg"/>&emsp;
-
-and other
+<img width="40px" style="margin-right: 10px" title="composer" alt="logo composer" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg"/>&emsp; ...
