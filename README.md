@@ -5,7 +5,7 @@ Hi 👋, I'm Amel</h1>
 
 👩🏻‍🏫 I’m currently working on my personal website and other project 😄
 
-## My languages and frameworks
+## My web languages and frameworks
 
 <img width="40px" style="margin-right: 10px" title="javascript" alt="logo javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>&emsp;
 <img width="40px" style="margin-right: 10px" title="typescript" alt="logo typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>&emsp;
@@ -17,7 +17,6 @@ Hi 👋, I'm Amel</h1>
 <img width="40px" style="margin-right: 10px" title="sass" alt="logo sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>&emsp;
 <img width="40px" style="margin-right: 10px" title="jQuery" alt="logo jQuery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg"/>&emsp;
 <img width="40px" style="margin-right: 10px" title="react" alt="logo react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>&emsp;
-<img width="60px" style="margin-right: 10px" title="gatsby" alt="logo gatsby" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain-wordmark.svg"/>&emsp;
 <img width="50px" style="margin-right: 10px" title="next js" alt="logo next js" src="https://gitlab.com/uploads/-/system/project/avatar/35899002/nextjs-boilerplate-logo.png"/>&emsp;
 
 ### Backend
@@ -29,14 +28,14 @@ Hi 👋, I'm Amel</h1>
 
 <!-- ### Mobile
 
-<img width="40px" height="40px" style="margin-right: 10px"  title="react native" alt="logo react native" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg"/>&emsp; -->
+<img width="40px" height="40px" style="margin-right: 10px"  title="react native" alt="logo react native" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg"/>&emsp;
 
 ### Testing
 
 <img width="40px" style="margin-right: 10px" title="jest" alt="logo jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/>&emsp;
 <img width="40px" style="margin-right: 10px" title="testing-library" alt="logo testing-library" src="https://testing-library.com/img/octopus-128x128.png"/>
 
-<!--
+
 <img width="40px" style="margin-right: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original-wordmark.svg"/>&emsp;
 <img width="60px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"/>
 -->
@@ -48,3 +47,12 @@ Hi 👋, I'm Amel</h1>
 <img width="40px" style="margin-right: 10px" title="docker" alt="logo docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>&emsp;
 <img width="40px" style="margin-right: 10px" title="npm" alt="logo npm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>&emsp;
 <img width="40px" style="margin-right: 10px" title="composer" alt="logo composer" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg"/>&emsp; ...
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amelmennad)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amelmennad&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amelmennadra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
