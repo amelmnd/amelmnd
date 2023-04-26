@@ -1,12 +1,16 @@
-<img align="right" width="100" height="100" src="https://octodex.github.com/images/femalecodertocat.png"/><h1 align="center">
-Hi 👋, I'm Amel</h1>
+<img align="right" width="100" height="100" src="https://octodex.github.com/images/femalecodertocat.png"/>
 
-🌱 Currently I am working on projects to assimilate all the concepts learned.
+🦓 🐢 |  🐣 student @42Nice
 
-👩🏻‍🏫 I’m currently working on my personal website and other project 😄
+#girldev et fière de l’être
 
-## My web languages and frameworks
+Curieuse et atypique je fais les choses a ma façon 
 
+🎯 Objectif : atteindre le niveau 11 en 9 mois 😶👻🥵
+
+## Mes techno
+Mes langages et frameworks present ici (en privee ou non 😉)
+<!--
 <img width="40px" style="margin-right: 10px" title="javascript" alt="logo javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>&emsp;
 <img width="40px" style="margin-right: 10px" title="typescript" alt="logo typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>&emsp;
 
@@ -26,7 +30,7 @@ Hi 👋, I'm Amel</h1>
 <img width="40px" style="margin-right: 10px"  title="express" alt="logo express" src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png"/>&emsp;
 <img width="40px"  title="MongoDB" alt="logo MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>&emsp;
 
-<!-- ### Mobile
+ ### Mobile
 
 <img width="40px" height="40px" style="margin-right: 10px"  title="react native" alt="logo react native" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg"/>&emsp;
 
@@ -38,7 +42,8 @@ Hi 👋, I'm Amel</h1>
 
 <img width="40px" style="margin-right: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original-wordmark.svg"/>&emsp;
 <img width="60px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"/>
--->
+
+
 
 ## The tools I use
 
@@ -47,5 +52,6 @@ Hi 👋, I'm Amel</h1>
 <img width="40px" style="margin-right: 10px" title="docker" alt="logo docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>&emsp;
 <img width="40px" style="margin-right: 10px" title="npm" alt="logo npm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>&emsp;
 <img width="40px" style="margin-right: 10px" title="composer" alt="logo composer" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg"/>&emsp; ...
-
+-->
 [![Top Langs](https://github-readme-stats-git-origin-amelmnd.vercel.app/api/top-langs/?username=amelmnd&count-private=true&layout=compact&show_icons=true&theme=dracula&langs_count=10)](github-readme-stats-git-origin-amelmnd.vercel.app)
+
