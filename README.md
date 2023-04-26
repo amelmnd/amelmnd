@@ -48,4 +48,4 @@ Hi 👋, I'm Amel</h1>
 <img width="40px" style="margin-right: 10px" title="npm" alt="logo npm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>&emsp;
 <img width="40px" style="margin-right: 10px" title="composer" alt="logo composer" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg"/>&emsp; ...
 
-[![Top Langs](https://github-readme-stats-amelmnd.vercel.app/api/top-langs/?username=amelmnd&count-private=true&layout=compact&show_icons=true&theme=dracula)](github-readme-stats-amelmnd.vercel.app)
+[![Top Langs](https://github-readme-stats-git-origin-amelmnd.vercel.app/api/top-langs/?username=amelmnd&count-private=true&layout=compact&show_icons=true&theme=dracula)](github-readme-stats-git-origin-amelmnd.vercel.app)
