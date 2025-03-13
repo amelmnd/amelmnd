@@ -3,7 +3,6 @@
   
  <img align="right" width="200" height="200" src="https://octodex.github.com/images/femalecodertocat.png"/>
 
-<pre>
 Certains savent très tôt ce qu'ils veulent faire, d'autres prennent plus de temps. Je fais partie de ces derniers, et j'en suis fière !  
 
 J'ai découvert tard ma passion : la programmation.  
@@ -18,7 +17,6 @@ Aujourd'hui à chercher une alternance et, surtout, ma spécialité 😱 ... là
 
 Alors, je vais continuer à faire des projets à mon rythme 🐢 avec ma manière d'apprendre 🦓.
 Je finirai bien par trouver 🧐.
-</pre>
   
 ### En ce moment j'apprend : la programmation mobile avec React Nativ (j'aurai du choisir Flutter mais ca peut changer 😉)  
   
